@@ -1,2 +1,2 @@
-# educational-project
-educational project Portfolio Denis Novik
+# Еducational-project
+Еducational project Portfolio Denis Novik
