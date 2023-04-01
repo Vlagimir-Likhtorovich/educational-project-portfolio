@@ -1,2 +1,2 @@
 # Еducational-project
-Еducational project  Denis Novik
+Еducational project:Denis Novik
